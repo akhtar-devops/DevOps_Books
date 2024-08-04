@@ -44,12 +44,9 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 ### B
 
-* [Borg, omega, kubernetes.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/borg%2C%20omega%2C%20kubernetes.pdf)
 * [Building and Enterprise Cloud with Dummies](/Building%20and%20Enterprise%20Cloud%20with%20Dummies.pdf) 
 
 ### C
-
-* [CKAD Preparation](/CKAD%20preparation.pdf) 
 * [Container-Networking-Docker-Kubernetes.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Container-Networking-Docker-Kubernetes.pdf)
 * [Container with Docker and K8s](/Container%20with%20docker%20and%20k8s.pdf) 
 * [Containers on AWS](/Containers%20on%20AWS.pdf) 
@@ -102,6 +99,13 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [K8s Muhamad Eiemam](/K8s_muhamad_eiemam.pdf)
 * [k8s cheat sheet](/Kubernetes%20Cheat%20Sheet.pdf)
 * [k8s for every one](/Kubernetes%20For%20Everyone.pdf)
+* [Kubernetes Up and Running by O'Reilly ](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+* [Kubernetes Patterns by O'Reilly ](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+* [Kubernetes patterns for designing cloud-native apps O’Reilly ](https://red.ht/3LeB1Vb)
+* [Cloud Native DevOps with Kubernetes by O'Reilly ]([label](Cloud%20Native%20Devops%20with%20Kubernetes.pdf))
+* [The Kubernetes Book (Nigel Poulton)](/The%20Kubernetes%20Book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
+* [kubernetes.pdf by Borg, omega](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/borg%2C%20omega%2C%20kubernetes.pdf)
+* [CKAD Preparation](/CKAD%20preparation.pdf) 
 
 ### L
 
@@ -130,13 +134,10 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ### O
 
 * [O'Reilly An Introduction to Cloud Databases](https://media-exp1.licdn.com/dms/document/C4D1FAQGi94BbMABNLw/feedshare-document-pdf-analyzed/0/1661090973570?e=1661990400&v=beta&t=R3ZNMec8rbU67lyw1wePYcnJm2wsjHkSxfBP2_1yYbY)
-* [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
-* [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
 * [O'Reilly Software Architecture Patterns](https://media-exp1.licdn.com/dms/document/C4D1FAQFXDNSQk3PSsA/feedshare-document-pdf-analyzed/0/1660642832168?e=1661385600&v=beta&t=LW46s1riQcdMGqRlyT04FtUYJ1PTlwXvhNtkEyAoQq8)
-* [O’Reilly Kubernetes patterns for designing cloud-native apps](https://red.ht/3LeB1Vb)
 * [OpenShift_in_Action.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/OpenShift_in_Action.pdf)
 * [Orchestrating_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Orchestrating_Docker.pdf)
-* [O'Reilly Cloud Native DevOps with Kubernetes]([label](Cloud%20Native%20Devops%20with%20Kubernetes.pdf))
+
 
 ### P
 
@@ -165,7 +166,6 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Terrafprm CLI Cheatsheet - 2](/terraform-cheatsheet-1.pdf)
 * [The Definitive Kubectl Cheatsheet](/the-definitive-kubectl-cheatsheet)
 * [The NewStack CI CD](/TheNewStack_CI_CD.pdf) 
-* [The Kubernetes Book (Nigel Poulton)](/The%20Kubernetes%20Book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
 * [Top 200 Questions Devops](/Top%20200%20questions%20DevOps.pdf) 
 * [Using_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Using_Docker.pdf)
  
